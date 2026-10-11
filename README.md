@@ -57,6 +57,8 @@ The application combines Sentence Transformers, FAISS vector search, and FLAN-T5
 - 🔗 **Architecture Type:** Retrieval-Augmented Generation (RAG)
 - 🖥️ **Application Framework:** Streamlit
 
+![ml](https://github.com/rushikeshwalode06-cod/SupportSphere-AI-Intelligent-Customer-Support-Chatbot-/blob/main/SupportSphere_model_image.png?raw=true)
+
 ## 📂 Dataset
 
 The project uses the **Bitext Customer Support LLM Chatbot Training Dataset**, available through Hugging Face.

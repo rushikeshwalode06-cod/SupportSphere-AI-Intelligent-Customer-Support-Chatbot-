@@ -1,0 +1,8 @@
+{
+    "project_name": "Customer Support AI",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "generation_model": "google/flan-t5-small",
+    "retrieval_top_k": 4,
+    "total_documents": 26872,
+    "embedding_dimension": 384
+}

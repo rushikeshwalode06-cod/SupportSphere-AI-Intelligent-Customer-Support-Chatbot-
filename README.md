@@ -167,3 +167,5 @@ The Streamlit application includes:
 ## 🏁 Conclusion
 
 SupportSphere AI demonstrates how Retrieval-Augmented Generation can combine semantic search and text generation to build an intelligent customer support chatbot. By integrating Sentence Transformers, FAISS, FLAN-T5 Small, and Streamlit, the project retrieves relevant knowledge and generates context-aware responses through an interactive interface. It provides a foundation for developing more advanced AI-driven customer support systems.
+
+![ml](https://github.com/rushikeshwalode06-cod/SupportSphere-AI-Intelligent-Customer-Support-Chatbot-/blob/main/SupportSphere_image.png?raw=true)
